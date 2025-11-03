@@ -1,79 +1,88 @@
-[![Li Wuyang](https://img.shields.io/badge/Li_Wuyang-github-blue?logo=github)](https://github.com/liwuyang)
+# Li Wuyang （李午阳）
 
-I'm currently pursuing a Master's degree in Artificial Intelligence at the **College of Artificial Intelligence, Shenzhen University, China**.  
-My research focuses on **recommender systems**, **large language models**, and **multi-objective optimization**.  
-I am passionate about integrating generative and evolutionary mechanisms into intelligent recommendation frameworks.
-
----
-
-#### 📧 Email  
-<code>liwuyang@szu.edu.cn</code>  
-<code>liwuyang.work@gmail.com</code>
+[![Homepage](https://img.shields.io/badge/Homepage-Li_Wuyang-blue?logo=googlechrome)](https://github.com/liwuyang)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Li_Wuyang-blue?logo=google-scholar)](https://scholar.google.com/)
+[![Email](https://img.shields.io/badge/Email-liwuyang@szu.edu.cn-red?logo=gmail)](mailto:liwuyang@szu.edu.cn)
 
 ---
 
-#### 🎓 Education  
+## 🧑‍🏫 Position  
+**Assistant Professor / Master’s Supervisor**  
+College of Artificial Intelligence, **Shenzhen University**, China  
 
-**Shenzhen University**, *Master of Artificial Intelligence* (2023 – 2026)  
-• GPA: 3.85 / 4.0  
-• Research direction: Intelligent recommendation and large-scale model optimization  
-
-**Hunan University**, *Exchange Student in Computer Science* (2021 – 2022)  
-• Selected as an outstanding student representative for the national-level academic exchange program  
-• Participated in research on deep learning and computer vision  
-
-**Hunan University**, *Honours Bachelor of Computer Science* (2019 – 2023)  
-• GPA: 3.80 / 4.0 (Top 5%)  
-• Awarded *Excellent Graduate* and *First-Class Academic Scholarship*  
+Office: Room XXX, College of Artificial Intelligence, Shenzhen University  
+Email: <code>liwuyang@szu.edu.cn</code>  
+Homepage: [https://github.com/liwuyang](https://github.com/liwuyang)
 
 ---
 
-#### 🔬 Research Interests  
+## 🎓 Education  
+- **Ph.D. in Computer Science**, Hunan University, China  
+- **M.Eng. in Artificial Intelligence**, Hunan University, China  
+- **B.Eng. in Computer Science and Technology**, Hunan University, China  
+
+---
+
+## 🔬 Research Interests  
 - Recommender Systems  
 - Large Language Models (LLMs)  
+- Multi-Objective Optimization and Evolutionary Computation  
+- Generative AI and Diffusion Models  
+- Intelligent Multimedia Understanding  
+
+---
+
+## 📚 Research Projects  
+
+- **Multi-Objective Optimization for Intelligent Recommendation**  
+  Funded by Shenzhen University; focuses on integrating evolutionary multitasking into recommendation models.  
+
+- **Generative Recommendation with Large Language Models**  
+  Developing hybrid LLM–recommender frameworks for personalized and interpretable recommendations.  
+
+- **Image Restoration via Mamba-CNN Hybrid Architectures**  
+  Proposed a dual-branch state-space dehazing network with long-range dependency modeling; patent filed in 2024.  
+
+---
+
+## 🧩 Selected Publications  
+
+1. **Li Wuyang**, *et al.* “Evolutionary Multi-Task Transfer Optimization for Multi-Objective Recommendation.”  
+   *IEEE Transactions on Evolutionary Computation*, under review, 2025.  
+
+2. **Li Wuyang**, *et al.* “Prediction–Reconstruction Video Anomaly Detection Integrating Latent Space Autoregression.”  
+   *Pattern Recognition Letters*, 2024.  
+
+3. **Li Wuyang**, *et al.* “Image Dehazing Based on a Hybrid Mamba-CNN Framework.”  
+   *Journal of Visual Communication and Image Representation*, 2024.  
+
+---
+
+## 🏆 Honors & Awards  
+- Excellent Instructor, Shenzhen University (2024)  
+- First-Class Academic Advisor Award, Shenzhen University (2023)  
+- National Innovation Guidance Award, Ministry of Education (2022)  
+
+---
+
+## 👩‍🎓 Graduate Supervision  
+
+I am currently recruiting **Master’s students** interested in:  
+- Recommender Systems  
+- Large Language Models  
 - Multi-Objective Optimization  
-- Evolutionary Computation  
-- Generative AI  
+- AI-Generated Content (AIGC)  
+
+📩 *Highly motivated students with strong coding and research skills are welcome to apply.*  
+Please email me with your CV and transcripts.  
 
 ---
 
-#### 🧠 Research Experience  
-
-**Research on Generative Multi-Objective Recommendation Frameworks**  
-*Shenzhen University, 2024 – Present*  
-- Proposed a novel **Evolutionary Multi-Task Transfer Optimization (EMTTO)** framework for multi-objective recommendation.  
-- Explored knowledge transfer across recommendation tasks using multi-task learning and evolutionary operators.  
-- Published and submitted works to leading AI and evolutionary computation journals.  
-
-**Image Dehazing with Hybrid Mamba-CNN Architecture**  
-*Shenzhen University, 2023 – 2024*  
-- Developed an image dehazing model combining **Mamba state-space modeling** and **CNN-based local feature extraction**.  
-- Applied **Grad-CAM visualization** to interpret network attention and haze removal effectiveness.  
-- Filed a **patent** for the proposed dehazing algorithm.  
-
-**Prediction–Reconstruction Video Anomaly Detection**  
-*Hunan University, 2022 – 2023*  
-- Designed a GAN-based video anomaly detection method integrating **latent-space autoregression**.  
-- Improved accuracy and real-time performance for industrial surveillance applications.  
-- Research results contributed to a **national undergraduate innovation project**.  
-
----
-
-#### 🏆 Honors & Awards  
-- **Excellent Graduate**, Hunan University (2023)  
-- **First-Class Academic Scholarship**, Hunan University (2020–2022)  
-- **National College Student Innovation Award**, Ministry of Education (2022)  
-- **Outstanding Student Representative**, Academic Exchange Program (2021)  
-
----
-
-#### 💻 Skills  
+## 💻 Skills  
 **Programming:** Python, PyTorch, TensorFlow, Shell, C++  
 **Research Tools:** LaTeX, Git, VS Code, Linux, CUDA  
-**Areas:** Machine Learning, Deep Learning, Recommender Systems, Generative AI  
+**Languages:** Chinese (native), English (fluent)
 
 ---
 
-#### 🌐 Profiles  
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Li_Wuyang-blue?logo=google-scholar)](https://scholar.google.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Li_Wuyang-blue?logo=linkedin)](https://linkedin.com/in/liwuyang)
+*Last updated: November 2025*
